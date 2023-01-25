@@ -24,9 +24,7 @@ function RootNavigator() {
 
 export default function App() {
   return (
-    <View style={styles.container}>
-     
-    </View>
+   <RootNavigator/>
   );
 }
 
